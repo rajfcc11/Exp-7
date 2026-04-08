@@ -1,0 +1,26 @@
+# Mac
+.DS_Store
+
+# Python
+venv/
+ai-model/venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Build output
+target/
+build/
+dist/
+
+# Env
+.env
+
+# Tools
+bfg.jar
+
+# VS Code
+.vscode/
